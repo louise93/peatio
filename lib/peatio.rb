@@ -1,0 +1,3 @@
+module Peatio
+
+end
